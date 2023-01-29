@@ -1,5 +1,5 @@
 {
-    "name": "yosietserga/FedEx-php-restore",
+    "name": "yosietserga/fedexphprestore",
     "description": "FedEx PHP package. Classes generated using wsdltophp/packagegenerator",
     "require": {
         "php": ">=7.4",
